@@ -1,4 +1,4 @@
-# CS332 Student-Course App
+# CSPSC 332 Student-Course App
 
 A simple PHP + MySQL web application that allows users to query and view information about professors, courses, sections, students, and academic records. This project was developed for CPSC 332 at California State University, Fullerton.
 
