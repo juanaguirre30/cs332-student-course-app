@@ -20,27 +20,6 @@ A simple PHP + MySQL web application that allows users to query and view informa
 
 ---
 
-## 🗂 Project Structure
-
-cs332-student-course-app/
-├── index.html # Homepage with all forms
-├── db_connect.php # Database connection script
-├── professor_schedule.php # Displays professor's class schedule
-├── course_grades.php # Shows grade distribution by section
-├── sections.php # Lists sections for a course
-├── student_grades.php # Displays student transcript
-├── schema/
-│ ├── db.sql # Full CREATE TABLE schema
-│ ├── courses.sql # Course sample data
-│ ├── departments.sql # Department sample data
-│ ├── professors.sql # Professor sample data
-│ ├── sections.sql # Section sample data
-│ ├── students.sql # Student sample data
-│ └── enrollments.sql # Enrollment records
-
-
----
-
 ## 🛠️ Technologies Used
 
 - **PHP** (Procedural)
