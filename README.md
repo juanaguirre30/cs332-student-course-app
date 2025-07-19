@@ -36,5 +36,6 @@ Username:   cs332b24
 Password:   EODb2NbN
 Database:   cs332b24
 
+📄 [View Full Project Documentation (PDF)](CS332_Project_Documentation.pdf)
 
 
